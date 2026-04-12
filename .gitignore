@@ -1,0 +1,20 @@
+## Build
+bin/
+obj/
+
+## User-specific / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Backup/
+UpgradeLog.htm
+
+## Logs
+*.log
+
+## OS
+Thumbs.db
+Desktop.ini
